@@ -84,8 +84,7 @@ This GitHub is where I share my projects, practice new concepts, and track my pr
 
 I'm happy to connect with developers, exchange ideas, and learn from the community.
 
-- **GitHub:** [@YOUR-USERNAME](https://github.com/YOUR-USERNAME)
-- **Email:** Add your preferred public contact email here
+- **Email:**Armin23f@gmail.com
 
 ---
 
